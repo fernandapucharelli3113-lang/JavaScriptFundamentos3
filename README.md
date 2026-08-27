@@ -201,7 +201,5 @@ Ao final, desenvolva os desafios integradores utilizando os conteúdos estudados
 
 Este projeto prepara a base necessária para avançar posteriormente para JavaScript assíncrono, Node.js, Express e desenvolvimento de APIs REST.
 
-Vai São Paulo
-Vamos nação tricolor 
 
 
